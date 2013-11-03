@@ -1,0 +1,8 @@
+{
+  "name": "hxapp",
+  "description": "Haxe Application",
+  "main": "run.sh",
+  "scripts": {
+    "start": "run.sh"
+  }
+}

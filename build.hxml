@@ -1,0 +1,3 @@
+-js bin/app.js
+-main hxapp.App
+-debug
