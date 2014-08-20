@@ -21,6 +21,7 @@
   <build>
     <option directives="" />
     <option flashStrict="False" />
+    <option noInlineOnDebug="False" />
     <option mainClass="" />
     <option enabledebug="False" />
     <option additional="" />
@@ -38,7 +39,7 @@
     <hidden path="obj" />
   </hiddenPaths>
   <!-- Executed before build -->
-  <preBuildCommand>make</preBuildCommand>
+  <preBuildCommand>./build.bat</preBuildCommand>
   <!-- Executed after build -->
   <postBuildCommand alwaysRun="False" />
   <!-- Other project options -->
